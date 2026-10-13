@@ -2,9 +2,8 @@
 
 **Project:** Edge AI Safety Gateway  
 **Phase:** Planning and feasibility review, 13 October 2026  
-**Duration:** Eight weeks from project start (not yet scheduled)  
-**Lead:** Mikhail Shakhmuradian  
-**Requested support:** $8,000 (see `BUDGET.csv`)
+**Duration:** Eight weeks from project start (not yet scheduled) 
+
 
 ## 1. Research question and scope
 
