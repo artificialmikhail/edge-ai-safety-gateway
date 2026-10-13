@@ -1,0 +1,9 @@
+Item,Candidate model,Qty,Status,Budget allocation USD,Compatibility check
+Primary edge kit,Seeed Studio reComputer RK3576 Dev Kit,1,Candidate,250,Confirm SKU RAM Linux image and NPU runtime
+Comparison / backup ARM kit,RK3576-based second dev kit (SKU TBD),1,Candidate,250,Select compatible board and memory budget
+Compact form-factor option,Firefly iCore-3576JQ38 + compatible carrier,0,Alternative not additional purchase,0,Confirm exact SKU connector support RAM and total cost
+Microphone array,Seeed Studio ReSpeaker XVF3800 USB 4-Mic Array,1,Candidate,140,Validate USB firmware enumeration Linux ASR format
+Audio output,USB speaker or compatible amplified speaker,1,Candidate,60,Select compatible output and acoustic echo handling
+Power supplies,Compatible 5V or vendor-specified supplies,2,Not selected,100,Verify voltage current connector and thermal headroom
+Cooling and storage,Heatsinks fans eMMC or microSD and cables,1,Not selected,100,Check thermal profile and boot media
+Enclosure and assembly,Prototype housing mounts wiring and rework,1,Not selected,300,Validate airflow and safety
