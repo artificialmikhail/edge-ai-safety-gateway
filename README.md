@@ -25,7 +25,7 @@ Decisions:
 python3 tools/validate_scenarios.py
 ```
 
-The validator checks data shape, field types, uniqueness, label values, and basic policy consistency. It **does not run a device, defend against attacks, or measure reliability**.
+The validator checks data shape, field types, uniqueness, label values, and basic policy consistency.
 
 ## Future result format
 
@@ -40,5 +40,3 @@ For scoring, the script compares observed outputs against seed labels. It report
 ```bash
 python3 tools/score_results.py path/to/actual_results.jsonl
 ```
-
-**Never upload real passwords, patient information, audio recordings without consent or production tool credentials.**
